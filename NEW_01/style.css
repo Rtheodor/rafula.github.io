@@ -1,0 +1,122 @@
+body{
+    background: #1de7ee;;
+    font-family: Verdana;
+    max-width: auto;
+    margin: 5px;
+    padding: auto;
+
+}
+
+
+.menu-primario{
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background: #0a0a0a;
+    box-shadow: 20 20px 0 rgb(4, 238, 207);
+    border-radius: 10px;
+    
+}
+
+
+.welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(39, 197, 218);
+    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+}
+
+
+.foto{
+    border: 10px;
+    border-radius: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+#title, .subtitle, .post_title {
+    color:rgb(8, 241, 203);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#title {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: #f1f7f1;
+
+}
+
+.post_title{
+    font-size: 20px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background: rgb(8, 8, 8);
+    padding: 10px;
+    border: 10px solid #000;
+    margin-bottom: 15px;
+    border-radius: 5px;
+
+}
+
+.post_content {
+    margin: 50;
+    margin-bottom: 20px;
+    text-transform: initial;
+    text-align: justify;
+    color:aqua;
+    
+}
+
+.post_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  
+}
+
+
+
+ul {    
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+li{
+    display: block;
+    color: rgb(248, 248, 245);
+    text-align: center;
+    padding: 14px 16px;
+    
+  }
+  
+  li a:hover {
+    border-radius:10ex;
+    background-color: rgb(72, 116, 116);
+  }
+
+  .contacts_list{
+    vertical-align: top; 
+    text-align: center;  
+    
+}
