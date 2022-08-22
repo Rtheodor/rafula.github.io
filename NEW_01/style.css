@@ -29,7 +29,7 @@ body{
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-color: rgb(39, 197, 218);
+    background-color: rgb(241, 244, 245);
     background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
 }
 
@@ -68,7 +68,7 @@ a {
 .post_title{
     font-size: 20px;
     font-style: italic;
-    margin: 0;
+    margin: 100px;
     margin-bottom: 15px;
 }
 
@@ -82,11 +82,11 @@ a {
 }
 
 .post_content {
-    margin: 50;
-    margin-bottom: 20px;
+    margin: 200px;
+    margin-bottom: 200px;
     text-transform: initial;
-    text-align: justify;
-    color:aqua;
+    text-align: center;
+    color:rgb(0, 238, 255);
     
 }
 
