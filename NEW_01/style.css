@@ -1,5 +1,5 @@
 body{
-    background: #1de7ee;;
+    background: #0d0e0e;;
     font-family: Verdana;
     max-width: auto;
     margin: 5px;
@@ -35,10 +35,11 @@ body{
 
 
 .foto{
-    border: 10px;
+    border: 100px;
     border-radius: 70%;
+    box-shadow: 10px 10px 10px 5px rgb(8, 241, 203);
     max-width:200px;
-    max-height:150px;
+    max-height:1500px;
     width: auto;
     height: auto;
     display: block;
@@ -104,6 +105,14 @@ a {
 }
 
 
+.cv{
+    color: aqua;
+}
+.pontual{
+    color: #f1f7f1;
+    
+}
+
 
 ul {    
     margin: 0;
@@ -128,4 +137,22 @@ li{
     vertical-align: top; 
     text-align: center;  
     
+}
+
+footer {
+    line-height: 40px;
+    height: 100px;
+    background: rgb(14, 13, 13);
+    padding: px;
+}
+
+footer ul {
+    float: left;
+    display: table;
+}
+
+footer ul li {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
 }
