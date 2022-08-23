@@ -83,7 +83,7 @@ a {
 }
 
 .post_content {
-    margin: 200px;
+    margin: 20px;
     margin-bottom: 200px;
     text-transform: initial;
     text-align: center;
@@ -106,8 +106,10 @@ a {
 
 
 .cv{
+    
     color: aqua;
 }
+
 .pontual{
     color: #f1f7f1;
     
