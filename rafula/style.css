@@ -83,7 +83,7 @@ a {
 
 .post_content {
     margin: 20px;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
     text-transform: initial;
     text-align: center;
     color:rgb(0, 238, 255);
@@ -101,6 +101,11 @@ a {
     margin-left: auto;
     margin-right: auto
    
+}
+
+.cabecalho{
+color: rgb(0, 238, 255);
+float: left;
 }
 
 .cv{
