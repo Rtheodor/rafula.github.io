@@ -1,5 +1,5 @@
 body{
-    background: #0d0e0e;;
+    background: #0ae4e4;;
     font-family: Verdana;
     max-width: auto;
     margin: 5px;
@@ -15,7 +15,7 @@ body{
     top: 0px;
     left: 0px;
     width: 100%;
-    background: #0a0a0a;
+    background: #818080;
     box-shadow: 20 20px 0 rgb(4, 238, 207);
     border-radius: 10px;
     
@@ -29,8 +29,8 @@ body{
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-color: rgb(241, 244, 245);
-    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    background-color: rgb(1, 14, 19);
+    background-image: linear-gradient(62deg, #3a3d40 0%, #97929b 100%);
 }
 
 
@@ -74,11 +74,10 @@ a {
 }
 
 .post{
-    background: rgb(8, 8, 8);
-    padding: 10px;
-    border: 10px solid #000;
-    margin-bottom: 15px;
-    border-radius: 5px;
+    background: rgb(73, 69, 69);
+    padding: 20px;
+    border: 10px solid #0a0a0a;
+    
 
 }
 
@@ -103,7 +102,6 @@ a {
     margin-right: auto
    
 }
-
 
 .cv{
     
@@ -150,6 +148,9 @@ li{
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
 }
+
+
+
 
 
 footer {
